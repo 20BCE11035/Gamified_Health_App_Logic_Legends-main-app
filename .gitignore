@@ -1,0 +1,10 @@
+# Environment Variable
+# *.env
+
+# Vs Code
+
+*.vscode
+*.idea
+
+# Node Modules
+node_modules
